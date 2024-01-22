@@ -9,6 +9,7 @@ You can try the interactive notebook online without installing anything. Just cl
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CarolinaRVB/ArticleReview/HEAD?urlpath=%2Fvoila%2Frender%2FArticle_Interactive.ipynb)
 
+NOTE: If it's your first time, Binder is a bit slow building the page given it's dimension. My suggestion is that you leave the tab loading, it can take up a few minutes!
 ## Overview
 
 This project aims to streamline the article review process by incorporating interactivity through Jupyter notebooks. The primary features include:
