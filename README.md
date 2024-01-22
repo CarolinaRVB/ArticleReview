@@ -1,6 +1,7 @@
 # ArticleReview Project
 
 Welcome to the ArticleReview project! This project is designed to provide an interactive way to review articles using Jupyter notebooks. You can access the interactive notebook through Binder.
+This specific review article was published in 2023 by myself and my colleagues.
 
 ## Try it Online
 
